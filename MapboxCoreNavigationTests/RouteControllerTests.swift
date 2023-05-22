@@ -1,7 +1,7 @@
 import XCTest
 import MapboxDirections
 import Turf
-import MapboxMobileEvents
+//import MapboxMobileEvents
 @testable import MapboxCoreNavigation
 
 fileprivate let mbTestHeading: CLLocationDirection = 50
